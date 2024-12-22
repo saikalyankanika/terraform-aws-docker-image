@@ -24,7 +24,7 @@
 
 ### How to connect to aws account 
  step-1:
- - can run ```aws configure``` by entering the bash mode on container and give the  access_key adn secret key 
+ - can run ```aws configure``` by entering the bash mode on container and give the  access_key and secret key 
 
  step-2:
 
